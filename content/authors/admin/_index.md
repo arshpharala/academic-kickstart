@@ -22,7 +22,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Rc.thakur
-  - icon: google-scholar
+  - icon: ai ai-google-scholar big-icon
     icon_pack: ai
     link: https://scholar.google.co.in/citations?user=5y1Rf-IAAAAJ&hl=en
 education:
