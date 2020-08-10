@@ -1,7 +1,6 @@
 ---
-title: Dr. Ramesh C. Thakur
-role: Professor & Associate Dean Head, School of Chemical Engineering & Physical
-  Sciences Head, Center for Research Degree Programmes
+title: Dr. Ramesh Chand Thakur
+role: Professor & Associate Dean Chemical Engineering & Physical Sciences
 avatar_filename: pp.jpg
 organizations:
   - name: Lovely Professional University (Punjab)
