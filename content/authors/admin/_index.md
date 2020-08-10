@@ -1,7 +1,7 @@
 ---
 title: Dr. Ramesh Chand Thakur
 role: Professor & Associate Dean Chemical Engineering & Physical Sciences
-avatar_filename: pp.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Lovely Professional University (Punjab)
     url: www.lpu.co.in
