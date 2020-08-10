@@ -5,28 +5,27 @@ avatar_filename: pp.jpg
 organizations:
   - name: Stanford University
     url: ""
+  - name: Lovely Professional University, Punjab
 superuser: true
 authors:
   - admin
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Solution Chemistry
+  - Thermodynamics
+  - Viscosity Studies
+  - Electrochemistry
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto: rc.thakur@lpu.co.in"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Rc.thakur
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.co.in/citations?user=5y1Rf-IAAAAJ&hl=en
 education:
   courses:
     - course: PhD in Artificial Intelligence
