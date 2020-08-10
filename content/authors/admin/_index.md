@@ -1,44 +1,47 @@
 ---
-title: Dr. Ramesh C. Thakur
-role: Professor of Chemical Engineering & Physical Sciences
-avatar_filename: pp.jpg
+title: Dr. Ramesh Chand Thakur
+role: Professor & Associate Dean Chemical Engineering & Physical Sciences
+avatar_filename: avatar.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Lovely Professional University (Punjab)
+    url: www.lpu.co.in
 superuser: true
 authors:
   - admin
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Solution Chemistry
+  - Thermodynamics
+  - Viscosity Studies
+  - Electrochemistry
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto: rc.thakur@lpu.co.in"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Rc.thakur
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.co.in/citations?user=5y1Rf-IAAAAJ&hl=en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Chemistry
+      institution: H.P. University Shimla (H.P)
+      year: 2002
+    - course: Pre. Ph.D. Physical Chemistry
+      institution: H.P. University Shimla (H.P)
+      year: ""
+    - course: M.Sc. in Physical Chemistry
+      institution: H.P. University Shimla (H.P)
+      year: ""
+    - course: B.Ed. (Gold Medalist)
+      institution: H.P. University Shimla (H.P)
+    - course: B.Sc. (Non-Medical)
+      institution: H.P. University Shimla (H.P)
+      year: 1994
+email: rc.thakur@lpu.co.in
 user_groups:
   - Researchers
   - Visitors
