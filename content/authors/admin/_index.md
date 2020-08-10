@@ -1,11 +1,11 @@
 ---
 title: Dr. Ramesh C. Thakur
-role: Professor of Chemical Engineering & Physical Sciences
+role: Professor & Associate Dean Head, School of Chemical Engineering & Physical
+  Sciences Head, Center for Research Degree Programmes
 avatar_filename: pp.jpg
 organizations:
-  - name: Stanford University
-    url: ""
-  - name: Lovely Professional University, Punjab
+  - name: Lovely Professional University (Punjab)
+    url: www.lpu.co.in
 superuser: true
 authors:
   - admin
