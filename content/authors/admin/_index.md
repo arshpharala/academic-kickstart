@@ -27,16 +27,21 @@ social:
     link: https://scholar.google.co.in/citations?user=5y1Rf-IAAAAJ&hl=en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Chemistry
+      institution: H.P. University Shimla (H.P)
+      year: 2002
+    - course: Pre. Ph.D. Physical Chemistry
+      institution: H.P. University Shimla (H.P)
+      year: ""
+    - course: M.Sc. in Physical Chemistry
+      institution: H.P. University Shimla (H.P)
+      year: ""
+    - course: B.Ed. (Gold Medalist)
+      institution: H.P. University Shimla (H.P)
+    - course: B.Sc. (Non-Medical)
+      institution: H.P. University Shimla (H.P)
+      year: 1994
+email: rc.thakur@lpu.co.in
 user_groups:
   - Researchers
   - Visitors
